@@ -10,7 +10,21 @@ h1 {
   color: white;
 }
 
-h1 a {
+h2 {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+p {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+.dllink {
+  font-family: verdana;
   color: Aquamarine;
   font-size: 16px;
 }
